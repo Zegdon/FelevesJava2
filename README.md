@@ -1,2 +1,2 @@
 # Felevesjava2
-Javított
+Azari Csaba (BW6XDG)
